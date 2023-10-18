@@ -40,9 +40,9 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'allauth',
     'allauth.account',
-    # Can connect using apple/gooogle pay very good for social media marketing
     'allauth.socialaccount',
     'home',
+    'products',
 ]
 
 MIDDLEWARE = [
